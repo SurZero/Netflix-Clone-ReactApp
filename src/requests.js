@@ -1,6 +1,6 @@
 const API_KEY = '49b448bd801f342d60a187eeb5939faf'
 
-const END_POINT = 'https://api.themoviedb.org/3/movie/550?api_key=49b448bd801f342d60a187eeb5939faf'
+// const END_POINT = 'https://api.themoviedb.org/3/movie/550?api_key=49b448bd801f342d60a187eeb5939faf'
 
 
 const requests ={
