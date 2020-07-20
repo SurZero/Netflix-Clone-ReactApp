@@ -5,3 +5,9 @@
 .app{
   background-color: #111;
 }
+
+@media screen and (max-width: 400px){
+  .app{
+    margin-right: -200px;
+  }
+}

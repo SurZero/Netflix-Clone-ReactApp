@@ -26,7 +26,7 @@ function Nav(){
 				src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png"
 				alt="Netflix Logo"
 			/>
-			<h3 className="nav__name">SUSIL THAPA</h3>
+			<p className="nav__name">Developer: SUSIL THAPA</p>
 		</div>
 	)
 }
